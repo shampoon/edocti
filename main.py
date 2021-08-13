@@ -1,9 +1,9 @@
-print('Hellow world!')
+print('Hello world!')
 
-print('Hellow world!')
+print('Hello world!')
 
-print('Hellow world!')
+print('Hello world!')
 
-print('Hellow world!')
+print('Hello world!')
 
-print('Hellow world!')
+print('Hello world!')
